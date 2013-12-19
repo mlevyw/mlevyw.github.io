@@ -275,7 +275,7 @@ display: block;
 }
 open-menu {
 font-size: 30px;
-color: #C3E0CD;
+color: white;
 padding-top: 20px;
 }
 .close-menu {
@@ -488,7 +488,7 @@ float: left;
 width:;
 max-width:100%;
 min-width: 759px;
-background-color:#ff5450;
+background-color:white;
 height:100%;
   transition: width 0.3s ease;
   	-moz-transition: width 0.3s ease; /* Firefox 4 */
