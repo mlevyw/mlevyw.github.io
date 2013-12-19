@@ -24,6 +24,10 @@ h1 {
   font-size:28px;
 }
 
+div {
+  width: 400%;
+}
+
 h2 {
   color:#393939;
 }
