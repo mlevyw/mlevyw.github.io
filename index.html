@@ -211,10 +211,17 @@
     </div>
   </div>
 </div>
+	
     <script src="js/jquery.js"></script>
     <script src="js/foundation.min.js"></script>
     <script>
       $(document).foundation();
+      $(window).load(function(){
+  $('#masonryContainer').masonry({  
+    itemSelector: '.masonry-brick',
+    columnWidth: 240
+  });  
+}); 
     </script>
   </body>
 </html>
